@@ -1,0 +1,15 @@
+El cuadro de la categoria Grado 3 Sub 10 (Varones) no ha sido creado debido a que la cantidad de jugadores es menor a la minima permitida.
+La cantidad de jugadores inscriptos aceptados es de 2
+
+El cuadro de la categoria Grado 3 Sub 10 (Mujeres) no ha sido creado debido a que la cantidad de jugadores es menor a la minima permitida.
+La cantidad de jugadores inscriptos aceptados es de 1
+
+El cuadro de la categoria Grado 3 Sub 14 (Mujeres) no ha sido creado debido a que la cantidad de jugadores es menor a la minima permitida.
+La cantidad de jugadores inscriptos aceptados es de 2
+
+El cuadro de la categoria Grado 3 Sub 16 (Varones) no ha sido creado debido a que la cantidad de jugadores es menor a la minima permitida.
+La cantidad de jugadores inscriptos aceptados es de 4
+
+El cuadro de la categoria Grado 3 Sub 18 (Varones) no ha sido creado debido a que la cantidad de jugadores es menor a la minima permitida.
+La cantidad de jugadores inscriptos aceptados es de 4
+

@@ -1,0 +1,4 @@
+Si tira "StringIndexOutOfBounderies 22" el CSV esta mal codificado, cambiar ; por , 
+
+WOLKOVERS
+Si pasa la de arriba, "WO 1". Caso contrario, "WO 2"
